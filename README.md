@@ -9,7 +9,8 @@ Cette application est une calculatrice simple développée en Flutter pour effec
 
 ## Captures d'écran
 
-*Ajoutez ici quelques captures d'écran de votre application pour montrer son fonctionnement.*
+![Capture d'écran 2023-12-28 130438](https://github.com/Isaac1676/IsaacCalculatorApp/assets/140208481/4c6d4ae6-25f5-429e-8624-1373a159c95e)
+![Capture d'écran 2023-12-28 130457](https://github.com/Isaac1676/IsaacCalculatorApp/assets/140208481/a4eef698-b309-4381-bf8c-4520f8fb3dcb)
 
 ## Installation
 
